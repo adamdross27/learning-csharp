@@ -1,0 +1,15 @@
+/Users/adamross/Desktop/Personal Stuff/Adam's Coding Portfolio/Learning C#/#3 Introduction/bin/Debug/net8.0/#3 Introduction
+/Users/adamross/Desktop/Personal Stuff/Adam's Coding Portfolio/Learning C#/#3 Introduction/bin/Debug/net8.0/#3 Introduction.deps.json
+/Users/adamross/Desktop/Personal Stuff/Adam's Coding Portfolio/Learning C#/#3 Introduction/bin/Debug/net8.0/#3 Introduction.runtimeconfig.json
+/Users/adamross/Desktop/Personal Stuff/Adam's Coding Portfolio/Learning C#/#3 Introduction/bin/Debug/net8.0/#3 Introduction.dll
+/Users/adamross/Desktop/Personal Stuff/Adam's Coding Portfolio/Learning C#/#3 Introduction/bin/Debug/net8.0/#3 Introduction.pdb
+/Users/adamross/Desktop/Personal Stuff/Adam's Coding Portfolio/Learning C#/#3 Introduction/obj/Debug/net8.0/#3 Introduction.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adamross/Desktop/Personal Stuff/Adam's Coding Portfolio/Learning C#/#3 Introduction/obj/Debug/net8.0/#3 Introduction.AssemblyInfoInputs.cache
+/Users/adamross/Desktop/Personal Stuff/Adam's Coding Portfolio/Learning C#/#3 Introduction/obj/Debug/net8.0/#3 Introduction.AssemblyInfo.cs
+/Users/adamross/Desktop/Personal Stuff/Adam's Coding Portfolio/Learning C#/#3 Introduction/obj/Debug/net8.0/#3 Introduction.csproj.CoreCompileInputs.cache
+/Users/adamross/Desktop/Personal Stuff/Adam's Coding Portfolio/Learning C#/#3 Introduction/obj/Debug/net8.0/#3 Introduction.sourcelink.json
+/Users/adamross/Desktop/Personal Stuff/Adam's Coding Portfolio/Learning C#/#3 Introduction/obj/Debug/net8.0/#3 Introduction.dll
+/Users/adamross/Desktop/Personal Stuff/Adam's Coding Portfolio/Learning C#/#3 Introduction/obj/Debug/net8.0/refint/#3 Introduction.dll
+/Users/adamross/Desktop/Personal Stuff/Adam's Coding Portfolio/Learning C#/#3 Introduction/obj/Debug/net8.0/#3 Introduction.pdb
+/Users/adamross/Desktop/Personal Stuff/Adam's Coding Portfolio/Learning C#/#3 Introduction/obj/Debug/net8.0/#3 Introduction.genruntimeconfig.cache
+/Users/adamross/Desktop/Personal Stuff/Adam's Coding Portfolio/Learning C#/#3 Introduction/obj/Debug/net8.0/ref/#3 Introduction.dll
