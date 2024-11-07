@@ -1,0 +1,14 @@
+/Users/adamross/Desktop/Personal Stuff/Adam's Coding Portfolio/Learning C#/#1 HelloWorld/bin/Debug/net8.0/#1 HelloWorld
+/Users/adamross/Desktop/Personal Stuff/Adam's Coding Portfolio/Learning C#/#1 HelloWorld/bin/Debug/net8.0/#1 HelloWorld.deps.json
+/Users/adamross/Desktop/Personal Stuff/Adam's Coding Portfolio/Learning C#/#1 HelloWorld/bin/Debug/net8.0/#1 HelloWorld.runtimeconfig.json
+/Users/adamross/Desktop/Personal Stuff/Adam's Coding Portfolio/Learning C#/#1 HelloWorld/bin/Debug/net8.0/#1 HelloWorld.dll
+/Users/adamross/Desktop/Personal Stuff/Adam's Coding Portfolio/Learning C#/#1 HelloWorld/bin/Debug/net8.0/#1 HelloWorld.pdb
+/Users/adamross/Desktop/Personal Stuff/Adam's Coding Portfolio/Learning C#/#1 HelloWorld/obj/Debug/net8.0/#1 HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adamross/Desktop/Personal Stuff/Adam's Coding Portfolio/Learning C#/#1 HelloWorld/obj/Debug/net8.0/#1 HelloWorld.AssemblyInfoInputs.cache
+/Users/adamross/Desktop/Personal Stuff/Adam's Coding Portfolio/Learning C#/#1 HelloWorld/obj/Debug/net8.0/#1 HelloWorld.AssemblyInfo.cs
+/Users/adamross/Desktop/Personal Stuff/Adam's Coding Portfolio/Learning C#/#1 HelloWorld/obj/Debug/net8.0/#1 HelloWorld.csproj.CoreCompileInputs.cache
+/Users/adamross/Desktop/Personal Stuff/Adam's Coding Portfolio/Learning C#/#1 HelloWorld/obj/Debug/net8.0/#1 HelloWorld.dll
+/Users/adamross/Desktop/Personal Stuff/Adam's Coding Portfolio/Learning C#/#1 HelloWorld/obj/Debug/net8.0/refint/#1 HelloWorld.dll
+/Users/adamross/Desktop/Personal Stuff/Adam's Coding Portfolio/Learning C#/#1 HelloWorld/obj/Debug/net8.0/#1 HelloWorld.pdb
+/Users/adamross/Desktop/Personal Stuff/Adam's Coding Portfolio/Learning C#/#1 HelloWorld/obj/Debug/net8.0/#1 HelloWorld.genruntimeconfig.cache
+/Users/adamross/Desktop/Personal Stuff/Adam's Coding Portfolio/Learning C#/#1 HelloWorld/obj/Debug/net8.0/ref/#1 HelloWorld.dll
