@@ -1,0 +1,14 @@
+C:\Users\adamr\Desktop\Code Development\C#\#2 Output\#2 Output\obj\Debug\net8.0\#2 Output.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamr\Desktop\Code Development\C#\#2 Output\#2 Output\obj\Debug\net8.0\#2 Output.AssemblyInfoInputs.cache
+C:\Users\adamr\Desktop\Code Development\C#\#2 Output\#2 Output\obj\Debug\net8.0\#2 Output.AssemblyInfo.cs
+C:\Users\adamr\Desktop\Code Development\C#\#2 Output\#2 Output\obj\Debug\net8.0\#2 Output.csproj.CoreCompileInputs.cache
+C:\Users\adamr\Desktop\Code Development\C#\#2 Output\#2 Output\bin\Debug\net8.0\#2 Output.exe
+C:\Users\adamr\Desktop\Code Development\C#\#2 Output\#2 Output\bin\Debug\net8.0\#2 Output.deps.json
+C:\Users\adamr\Desktop\Code Development\C#\#2 Output\#2 Output\bin\Debug\net8.0\#2 Output.runtimeconfig.json
+C:\Users\adamr\Desktop\Code Development\C#\#2 Output\#2 Output\bin\Debug\net8.0\#2 Output.dll
+C:\Users\adamr\Desktop\Code Development\C#\#2 Output\#2 Output\bin\Debug\net8.0\#2 Output.pdb
+C:\Users\adamr\Desktop\Code Development\C#\#2 Output\#2 Output\obj\Debug\net8.0\#2 Output.dll
+C:\Users\adamr\Desktop\Code Development\C#\#2 Output\#2 Output\obj\Debug\net8.0\refint\#2 Output.dll
+C:\Users\adamr\Desktop\Code Development\C#\#2 Output\#2 Output\obj\Debug\net8.0\#2 Output.pdb
+C:\Users\adamr\Desktop\Code Development\C#\#2 Output\#2 Output\obj\Debug\net8.0\#2 Output.genruntimeconfig.cache
+C:\Users\adamr\Desktop\Code Development\C#\#2 Output\#2 Output\obj\Debug\net8.0\ref\#2 Output.dll

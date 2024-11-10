@@ -1,0 +1,14 @@
+C:\Users\adamr\Desktop\Code Development\C#\#3 Variables\#3 Variables\bin\Debug\net8.0\#3 Variables.exe
+C:\Users\adamr\Desktop\Code Development\C#\#3 Variables\#3 Variables\bin\Debug\net8.0\#3 Variables.deps.json
+C:\Users\adamr\Desktop\Code Development\C#\#3 Variables\#3 Variables\bin\Debug\net8.0\#3 Variables.runtimeconfig.json
+C:\Users\adamr\Desktop\Code Development\C#\#3 Variables\#3 Variables\bin\Debug\net8.0\#3 Variables.dll
+C:\Users\adamr\Desktop\Code Development\C#\#3 Variables\#3 Variables\bin\Debug\net8.0\#3 Variables.pdb
+C:\Users\adamr\Desktop\Code Development\C#\#3 Variables\#3 Variables\obj\Debug\net8.0\#3 Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamr\Desktop\Code Development\C#\#3 Variables\#3 Variables\obj\Debug\net8.0\#3 Variables.AssemblyInfoInputs.cache
+C:\Users\adamr\Desktop\Code Development\C#\#3 Variables\#3 Variables\obj\Debug\net8.0\#3 Variables.AssemblyInfo.cs
+C:\Users\adamr\Desktop\Code Development\C#\#3 Variables\#3 Variables\obj\Debug\net8.0\#3 Variables.csproj.CoreCompileInputs.cache
+C:\Users\adamr\Desktop\Code Development\C#\#3 Variables\#3 Variables\obj\Debug\net8.0\#3 Variables.dll
+C:\Users\adamr\Desktop\Code Development\C#\#3 Variables\#3 Variables\obj\Debug\net8.0\refint\#3 Variables.dll
+C:\Users\adamr\Desktop\Code Development\C#\#3 Variables\#3 Variables\obj\Debug\net8.0\#3 Variables.pdb
+C:\Users\adamr\Desktop\Code Development\C#\#3 Variables\#3 Variables\obj\Debug\net8.0\#3 Variables.genruntimeconfig.cache
+C:\Users\adamr\Desktop\Code Development\C#\#3 Variables\#3 Variables\obj\Debug\net8.0\ref\#3 Variables.dll

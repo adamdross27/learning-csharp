@@ -1,0 +1,14 @@
+C:\Users\adamr\Desktop\Code Development\C#\#1 C# Tutorial for Beginners\#1 C# Tutorial for Beginners\obj\Debug\net8.0\#1 C# Tutorial for Beginners.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamr\Desktop\Code Development\C#\#1 C# Tutorial for Beginners\#1 C# Tutorial for Beginners\obj\Debug\net8.0\#1 C# Tutorial for Beginners.AssemblyInfoInputs.cache
+C:\Users\adamr\Desktop\Code Development\C#\#1 C# Tutorial for Beginners\#1 C# Tutorial for Beginners\obj\Debug\net8.0\#1 C# Tutorial for Beginners.AssemblyInfo.cs
+C:\Users\adamr\Desktop\Code Development\C#\#1 C# Tutorial for Beginners\#1 C# Tutorial for Beginners\obj\Debug\net8.0\#1 C# Tutorial for Beginners.csproj.CoreCompileInputs.cache
+C:\Users\adamr\Desktop\Code Development\C#\#1 C# Tutorial for Beginners\#1 C# Tutorial for Beginners\bin\Debug\net8.0\#1 C# Tutorial for Beginners.exe
+C:\Users\adamr\Desktop\Code Development\C#\#1 C# Tutorial for Beginners\#1 C# Tutorial for Beginners\bin\Debug\net8.0\#1 C# Tutorial for Beginners.deps.json
+C:\Users\adamr\Desktop\Code Development\C#\#1 C# Tutorial for Beginners\#1 C# Tutorial for Beginners\bin\Debug\net8.0\#1 C# Tutorial for Beginners.runtimeconfig.json
+C:\Users\adamr\Desktop\Code Development\C#\#1 C# Tutorial for Beginners\#1 C# Tutorial for Beginners\bin\Debug\net8.0\#1 C# Tutorial for Beginners.dll
+C:\Users\adamr\Desktop\Code Development\C#\#1 C# Tutorial for Beginners\#1 C# Tutorial for Beginners\bin\Debug\net8.0\#1 C# Tutorial for Beginners.pdb
+C:\Users\adamr\Desktop\Code Development\C#\#1 C# Tutorial for Beginners\#1 C# Tutorial for Beginners\obj\Debug\net8.0\#1 C# Tutorial for Beginners.dll
+C:\Users\adamr\Desktop\Code Development\C#\#1 C# Tutorial for Beginners\#1 C# Tutorial for Beginners\obj\Debug\net8.0\refint\#1 C# Tutorial for Beginners.dll
+C:\Users\adamr\Desktop\Code Development\C#\#1 C# Tutorial for Beginners\#1 C# Tutorial for Beginners\obj\Debug\net8.0\#1 C# Tutorial for Beginners.pdb
+C:\Users\adamr\Desktop\Code Development\C#\#1 C# Tutorial for Beginners\#1 C# Tutorial for Beginners\obj\Debug\net8.0\#1 C# Tutorial for Beginners.genruntimeconfig.cache
+C:\Users\adamr\Desktop\Code Development\C#\#1 C# Tutorial for Beginners\#1 C# Tutorial for Beginners\obj\Debug\net8.0\ref\#1 C# Tutorial for Beginners.dll
